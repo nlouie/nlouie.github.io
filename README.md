@@ -2,7 +2,4 @@
 
 ### Courses
 
-- Virtual Python Tutorial Series
-    - Module 0
-        - [ReadMe](http://pages.nlouie.com/nlouie-python-course-0/)
-        - [Notes](http://pages.nlouie.com/nlouie-python-course-0/src/demo0)
+- [Automate the Boring Stuff (Intro to Python and Computer Programming)](https://github.com/nlouie/nlouie-intro-to-python-atbs)
