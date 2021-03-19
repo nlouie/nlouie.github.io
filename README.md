@@ -3,7 +3,8 @@
 ### Courses
 
 - [Automate the Boring Stuff (Intro to Python and Computer Programming)](https://github.com/nlouie/nlouie-intro-to-python-atbs)
-- [WebUX @ CoderDojo](http://www.coderdojotc.org/web-ux/)
+- [Intro WebUX @ CoderDojo](http://www.coderdojotc.org/web-ux/)
+- [Intro to Python @ CoderDojo](https://www.coderdojotc.org/python/)
 
 ### Course Notes
 
