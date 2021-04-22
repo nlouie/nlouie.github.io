@@ -5,6 +5,7 @@
 - [Automate the Boring Stuff (Intro to Python and Computer Programming)](https://github.com/nlouie/nlouie-intro-to-python-atbs)
 - [Intro WebUX @ CoderDojo](http://www.coderdojotc.org/web-ux/)
 - [Intro to Python @ CoderDojo](https://www.coderdojotc.org/python/)
+- [Info Security - What do I need to know in 2021?](https://github.com/nlouie/info-sec-course/)
 
 ## Course Notes
 
